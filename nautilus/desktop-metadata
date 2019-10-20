@@ -1,0 +1,24 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1571054909
+nautilus-desktop-icon-size=64
+
+[trash]
+nautilus-icon-position=56,10
+icon-scale=1
+nautilus-icon-position-timestamp=1571054943
+
+[home]
+nautilus-icon-position=56,126
+icon-scale=1
+nautilus-icon-position-timestamp=1571054944
+
+[network]
+nautilus-icon-position=56,246
+icon-scale=1
+nautilus-icon-position-timestamp=1571054945
+
+[500 GB Volume.volume]
+nautilus-icon-position=56,246
+icon-scale=1
+nautilus-icon-position-timestamp=1571058812
